@@ -16,7 +16,13 @@
         <tr><td class="text-center">
     <form method="post" action="2-1.html">
     <button class="btn btn-primary md-2">2-1</button></form></td><td class="text-center">
-    <form method="post" action="2-2.html"><button class="btn btn-primary">2-2</button></form></td></div>
+    <form method="post" action="2-2.html"><button class="btn btn-primary">2-2</button></form></td></div></tr>
+    <tr>
+    <td class="text-center">
+    <form method="post" action="3-1.html">
+    <button class="btn btn-primary md-2">3-1</button></form></td><td class="text-center">
+    <form method="post" action="3-2.html"><button class="btn btn-primary">3-2</button></form></td></div>
+</tr>
 </table>
 </center>
 <!-- Footer-->
